@@ -1,15 +1,17 @@
-#### 현재 진행
+# 현재 진행
 - [ ] https://github.com/Jinsun-Lee/qos_pkg
 - [ ] https://github.com/Jinsun-Lee/simulation_ws
 
+</br>
+
 ---
 
+#### 통합 필요 
 - [ ] https://github.com/Jinsun-Lee/calib_pkg
 - [ ] https://github.com/Jinsun-Lee/zonal_architecture
 
 </br>
 
-#### 통합 필요 
 - [ ] https://github.com/Jinsun-Lee/wooden_mount_fusion360urdf
 - [ ] https://github.com/Jinsun-Lee/waypoint_pkg
 
@@ -47,8 +49,6 @@
 
 ---
 
-</br>
-
 #### 사용
 - [ ]
 - [ ] (wiki) https://github.com/Jinsun-Lee/convert_pyc
@@ -57,6 +57,8 @@
 - [ ] https://github.com/Jinsun-Lee/ros2_kitti_depth
 
 </br>
+
+---
 
 #### 종료 
 - [ ] 
