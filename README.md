@@ -1,17 +1,17 @@
 #### 현재 진행
-- [ ] https://github.com/Jinsun-Lee/qos_ws
+- [ ] https://github.com/Jinsun-Lee/qos_pkg
 - [ ] https://github.com/Jinsun-Lee/simulation_ws
 
 ---
 
-- [ ] https://github.com/Jinsun-Lee/calib_ws
+- [ ] https://github.com/Jinsun-Lee/calib_pkg
 - [ ] https://github.com/Jinsun-Lee/zonal_architecture
 
 </br>
 
 #### 통합 필요 
-- [ ] https://github.com/Jinsun-Lee/fusion360
-- [ ] https://github.com/Jinsun-Lee/waypoint_ws
+- [ ] https://github.com/Jinsun-Lee/wooden_mount_fusion360urdf
+- [ ] https://github.com/Jinsun-Lee/waypoint_pkg
 
 </br>
 
@@ -23,23 +23,23 @@
       
 </br>
 
+- [ ] https://github.com/Jinsun-Lee/launch_pkg
+- [ ] https://github.com/Jinsun-Lee/rviz_pkg
 - [ ] https://github.com/Jinsun-Lee/ros2_ws
 - [ ] https://github.com/Jinsun-Lee/workspace_folder
-- [ ] https://github.com/Jinsun-Lee/rviz_pkg
-- [ ] https://github.com/Jinsun-Lee/ros2_launch
 
 </br>
 
-- [ ] https://github.com/Jinsun-Lee/race_py
 - [ ] https://github.com/Jinsun-Lee/auto_racing
-- [ ] https://github.com/Jinsun-Lee/road_following
+- [ ] https://github.com/Jinsun-Lee/racing_24py
+- [ ] https://github.com/Jinsun-Lee/racing_23ml
       
 </br>
 
-- [ ] https://github.com/Jinsun-Lee/gazebo_track
-- [ ] https://github.com/Jinsun-Lee/track_model
-- [ ] https://github.com/Jinsun-Lee/yolov8_test
-- [ ] https://github.com/Jinsun-Lee/self_supervised_learning
+- [ ] https://github.com/Jinsun-Lee/track_pkg
+- [ ] https://github.com/Jinsun-Lee/track_24ml
+- [ ] https://github.com/Jinsun-Lee/yolov8_pkg
+- [ ] https://github.com/Jinsun-Lee/fewshot_24ml
 
 </br>
 
