@@ -21,7 +21,7 @@
 </br>
 
 - [ ] (wiki) https://github.com/Jinsun-Lee/autolab_kingocar
-- [ ] https://github.com/Jinsun-Lee/ROS2_Based_Autonomous_Driving_SW_Camp
+- [x] https://github.com/Jinsun-Lee/ROS2_Based_Autonomous_Driving_SW_Camp
 - [x] https://github.com/Jinsun-Lee/ROS2_Library_Function
 - [x] https://github.com/Jinsun-Lee/H_Mobility_Autonomou_Advanced_Course
 - [ ] https://github.com/Jinsun-Lee/debugging_pkg
