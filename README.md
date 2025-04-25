@@ -1,70 +1,37 @@
-# 현재 진행
-- [ ] ⭐ https://github.com/Jinsun-Lee/ROS2-template
-    - [x] [시뮬레이션 사용 방법](https://github.com/Jinsun-Lee/ROS2-template/wiki/0.-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95)
-    - [x] [시뮬레이션 사용 예시](https://github.com/Jinsun-Lee/ROS2-template/discussions) 
-- [ ] ⭐ https://github.com/Jinsun-Lee/simulation_ws
-- [ ] https://github.com/Jinsun-Lee/qos_pkg
+# ⭐[ROS2-template](https://github.com/Jinsun-Lee/ROS2-template)
+1. [시뮬레이션 사용 방법](https://github.com/Jinsun-Lee/ROS2-template/wiki/1.-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95)  
+2. [시뮬레이션 사용 예시](https://github.com/Jinsun-Lee/ROS2-template/discussions)
+```
+ros2_
+```
+ros2_키워드_sdf  
+ros2_키워드_pkg
 
-</br>
+<br>
 
----
+### 관련 프로젝트
+- ROS 2 기반 자율주행 차량 설계 및 구현 https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_book
+- ROS 2 기반 자율주행 차량 설계 및 구현 (시뮬레이션 환경) https://github.com/SKKUAutoLab/ros2_autonomous_vehicle_simulation
 
-#### 통합 필요 
-- [ ] https://github.com/Jinsun-Lee/calib_pkg
-- [ ] ⭐ https://github.com/Jinsun-Lee/zonal_architecture
+<br>
 
-</br>
+- robotics_python https://github.com/Jinsun-Lee/robotics_python
+- https://github.com/Jinsun-Lee/ros2_humble_install_sh
+- pyc 파일 만들기 https://github.com/Jinsun-Lee/ros2_convert_pyc_gui
+- 허깅페이스 연동 패키지랑 영상 https://github.com/Jinsun-Lee/ros2_huggingface_pkg
+- 카메라 프레임 전송받아서 DDS로 Publish https://github.com/SKKUAutoLab/AutoLab-SDV-ZCU
+- https://github.com/Jinsun-Lee/ros2_zenoh_plugin_ros2dds
 
-- [ ] https://github.com/Jinsun-Lee/wooden_mount_fusion360urdf
-- [ ] https://github.com/Jinsun-Lee/waypoint_pkg
+<br>
 
-</br>
+- benz 차량 https://github.com/Jinsun-Lee/ros2_benz_amg_sdf
+- 블렌더로 차량 수정하는 영상 포함 https://github.com/Jinsun-Lee/ros2_vehicle_sdf
+- 가제보에 접힌 트랙 불러오는 영상 포함 https://github.com/Jinsun-Lee/ros2_track_sdf
+- 나무 지지대 https://github.com/Jinsun-Lee/ros2_wooden_mount_sdf
 
-- [ ] (wiki) https://github.com/Jinsun-Lee/autolab_kingocar
-- [x] https://github.com/Jinsun-Lee/ROS2_Based_Autonomous_Driving_SW_Camp
-- [x] https://github.com/Jinsun-Lee/ROS2_Library_Function
-- [x] https://github.com/Jinsun-Lee/H_Mobility_Autonomou_Advanced_Course
-- [ ] https://github.com/Jinsun-Lee/debugging_pkg
-      
-</br>
+<br>
 
-- [ ] https://github.com/Jinsun-Lee/launch_pkg
-- [ ] https://github.com/Jinsun-Lee/rviz_pkg
-- [ ] ⭐ https://github.com/Jinsun-Lee/ros2_ws
-- [ ] https://github.com/Jinsun-Lee/workspace_folder
-
-</br>
-
-- [ ] https://github.com/Jinsun-Lee/auto_racing
-- [ ] https://github.com/Jinsun-Lee/racing_24py
-- [ ] https://github.com/Jinsun-Lee/racing_23ml
-      
-</br>
-
-- [ ] https://github.com/Jinsun-Lee/track_pkg
-- [ ] https://github.com/Jinsun-Lee/track_24ml
-- [x] https://github.com/Jinsun-Lee/yolov8_pkg
-    - [ ] https://github.com/Jinsun-Lee/yolov8_pkg/blob/master/yolov8_ros/yolov8_ros/instance_segmentation_node.py
-- [ ] https://github.com/Jinsun-Lee/fewshot_24ml
-
-</br>
-
-- [ ] 
-
----
-
-#### 사용
-- [x] ⭐(wiki) https://github.com/Jinsun-Lee/convert_pyc
-    - [x] [2. pyc 파일 import해서 사용하는 방법](https://github.com/Jinsun-Lee/convert_pyc/wiki/2.-pyc-%ED%8C%8C%EC%9D%BC-import%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-    - [x] [원래 pyc 파일 만드는 방법](https://github.com/Jinsun-Lee/convert_pyc/wiki/%EC%9B%90%EB%9E%98-pyc-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
-- [x] ⭐ https://github.com/Jinsun-Lee/ros2_humble_install_sh
-- [ ] https://github.com/Jinsun-Lee/robotics_python
-- [ ] https://github.com/Jinsun-Lee/ros2_kitti_depth
-
-</br>
-
----
-
-#### 종료 
-- [ ] https://github.com/Jinsun-Lee/duckie_ws
-- [ ] https://github.com/Jinsun-Lee/zenoh_plugin_ros2dds
+- 2023년 성균관대학교 동계 ROS2 기반 자율주행 SW 종합설계 https://github.com/SKKUAutoLab/ROS2-Based-Autonomous-Driving-SW-Camp
+- 2024년 제2회 성균관대학교 자율주행 SW 경진대회 https://github.com/SKKUAutoLab/SKKU_FutureCar_AutoDriving_SW_Competition
+- 2024년 제3회 미래형자동차 자율주행 SW 경진대회(전국대회) https://github.com/SKKUAutoLab/FutureCar_AutoDriving_SW_Competition
+- 2024년 H-Mobility Class 자율주행 심화과정 https://github.com/SKKUAutoLab/H-Mobility-Autonomous-Advanced-Course
